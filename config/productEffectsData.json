@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "name": "effect1",
+            "icon": "defaultIcon.jpg"
+        },
+        {
+            "name": "effect2",
+            "icon": "defaultIcon.jpg"
+        }
+    ]
+}
