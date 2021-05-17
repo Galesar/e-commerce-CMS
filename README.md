@@ -1,4 +1,4 @@
-# Open Source E-commerce cms
+# Open Source E-commerce cms JS Only
 ### Technologies:
 1. Nodejs
 2. MongoDB
